@@ -1,2 +1,2 @@
 # MInesweeper
-Using JafaFx to play a fully functional minesweeper game.
+Using JafaFx and GUI to play a fully functional minesweeper game.
